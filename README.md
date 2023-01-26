@@ -20,12 +20,10 @@
 
 
 ## 📫 Connect with me:
-- 
-- 📝 Blog Link: https://chatwithdata.blogspot.com/
-- 📊 Tableau Profile Link: https://public.tableau.com/app/profile/taniya6718
-- 🐱 GitHub Profile: https://github.com/taniyadubey?tab=repositories
-- <a href="linkedin.com/in/taniya-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taniyadubey" height="30" width="40" /></a>
-- Gmail: taniyaduebyy@gmail.com
+- <a href="linkedin.com/in/taniya-dubey" target="blank"><img align="center" alt="Linkedin" height="30" width="40" /></a>
+- <a href="taniyadubeyy@gmail.com" target="blank"><img align="center" alt="Gmail" height="30" width="40" /></a>
+- <a href="https://chatwithdata.blogspot.com/" target="blank"><img align="center" alt="Blog" height="30" width="40" /></a>
+- <a href="https://public.tableau.com/app/profile/taniya6718" target="blank"><img align="center" alt="Tableau Profile" height="30" width="40" /></a>
 
 ## 💻 Languages and Tools:
 pandas numpy python scikit_learn seaborn Tableau mysql 
