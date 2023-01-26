@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center"><a href="sites.google.com/view/taniya-dubey/home"><img width="80%" alt="Hello, I'm Taniya.!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 ![image](https://user-images.githubusercontent.com/121770900/214569857-02c9f037-2ae9-4d41-afd4-b6a5ad79fef4.png)
 
@@ -23,4 +25,5 @@
 ## 💻 Languages and Tools:
 pandas numpy python scikit_learn seaborn Tableau mysql 
 
-![Taniya's GitHub stats](https://taniyadubey.vercel.app/api?username=taniyadubey&show_icons=true&theme=radical)
+| <a href="https://github.com/taniyadubey/taniyadubey"><img align="center" src="https://taniyadubey.vercel.app/api?username=taniyadubey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="taniyadubey's github stats" /></a> | <a href="https://github.com/taniyadubey/taniyadubey"><img align="center" src="https://taniyadubey.vercel.app/api/top-langs/?username=taniyadubey&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
