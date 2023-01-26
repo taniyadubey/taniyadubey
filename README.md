@@ -22,3 +22,5 @@
 
 ## 💻 Languages and Tools:
 pandas numpy python scikit_learn seaborn Tableau mysql 
+
+![Taniya's GitHub stats](https://taniyadubey.vercel.app/api?username=taniyadubey&show_icons=true&theme=radical)
