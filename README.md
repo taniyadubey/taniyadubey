@@ -31,5 +31,6 @@
 pandas numpy python scikit_learn seaborn Tableau mysql 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=taniyadubey&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=taniyadubey&show_icons=true" width="400">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyadubey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
