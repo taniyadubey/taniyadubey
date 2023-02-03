@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/121770900/214569857-02c9f037-2ae9-4d41-afd4-b6a5ad79fef4.png)
 
 
-<h1 align="center">Welcome to my profile, I'm Taniya..</h1>
+<h1 align="center">Welcome to my profile, I'm Taniya Dubey</h1>
 <h3 align="center">Aspiring Data Scientist.</h3>
 <br>
 
