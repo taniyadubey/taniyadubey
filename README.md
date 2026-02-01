@@ -19,7 +19,7 @@
 
 
 ## 📫 Connect with me:
-<a href="https://linkedin.com/in/taniya-dubey"><img src="https://tse3.mm.bing.net/th/id/OIP.JpYszUEEQWk1XEpu0FfCfQHaEK?pid=Api&P=0&h=180" height="50" width="50" ></a>
+<a href="https://linkedin.com/in/taniya-dubey"><img src="https://static.vecteezy.com/system/resources/previews/017/339/624/non_2x/linkedin-icon-free-png.png" height="50" width="50" ></a>
 <a href="https://chatwithdata.blogspot.com/"><img src="https://cdn-icons-png.flaticon.com/512/220/220208.png?w=740&t=st=1675457443~exp=1675458043~hmac=ab680ced331a89ac5f3f0d983c4a241dcba8d80261fe08054d7e2ea4a6b399bf" alt="Blogger Logo" height="50" width="50" ></a>
 <a href="https://public.tableau.com/app/profile/taniya6718"><img src="https://img.icons8.com/color/256/tableau-software.png" height="50" width="50" ></a>
 
