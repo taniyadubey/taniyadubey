@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Welcome to my profile, I'm Taniya Dubey</h1>
-<h3 align="center">Aspiring Data Scientist.</h3>
+<h3 align="center">Exploring </h3>
 <br>
 
 <img align="right" alt="coding" width="400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
