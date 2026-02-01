@@ -27,10 +27,7 @@
 <img align="Left" alt="coding" width="100" src = "https://user-images.githubusercontent.com/121770900/215862340-ed5e3b8b-db74-463b-ae4b-b4c22248d4f3.png">
 <img align="Center" alt="coding" width="100" src = "https://user-images.githubusercontent.com/121770900/215864338-d46f16c4-6019-4270-8083-2ee96974c395.png">
 <img align="Center" alt="coding" width="100" src = "https://user-images.githubusercontent.com/121770900/215863652-91d1cc5b-c8cd-465a-9125-eded2562200f.png">
+<img align="Center" alt="coding" width="100" src = "https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494">
 
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=taniyadubey&show_icons=true" width="400">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyadubey)](https://github.com/anuraghazra/github-readme-stats)
