@@ -10,11 +10,16 @@
 <img align="right" alt="coding" width="400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
+
+
 ## 😄 About me:
 - Exploring about data science and business analytics, 
 - Recently started a blog named 'Chat with Data' where I share my insights and learn about the field. 
 - Have worked on projects related to machine learning and data visualization. 
 - Seeking a business analyst role with a diverse team to solve complex problems and drive business value.
+
+
+
 
 
 
